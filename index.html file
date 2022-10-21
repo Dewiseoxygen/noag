@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+ <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="this page is about pets ">
+        <link rel="stylesheet"
+        href="style.css">
+        <style>
+         body{
+          background:linear-gradient(lightCyan, skyBlue,deepSkyBlue)
+        
+         
+          
+          
+         
+        }
+        div{}
+         
+         .item{ 
+          padding: block-inline;
+          border: 2px solid#587;
+          height: 150px;
+          width: 500px;
+          margin-inline-start: auto;
+         }
+         .container{ 
+        
+          border: solid #587;
+    
+          width: 200px;
+          height: 500px;
+
+         }
+         nav{
+          margin-inline-start: auto;
+          padding-inline-start: 10px;
+         }
+         
+        </style>
+      <title>
+       Pets info.
+      </title>
+    </head>
+    <body>
+        
+          <h1>What do we refers as pets.</h1><hr>
+        <nav>
+          <nav>
+        <div>
+          <p>Pets are any living animals which are regarded as man's 
+            friend pet, any animal kept by human beings as a source of companionship and pleasure. 
+            A pet, or companion animal, is an animal kept primarily for a person's company or entertainment rather than as a working animal, livestock, or a laboratory animal. Popular pets are often considered to have attractive appearances, intelligence, and relatable personalities, but some pets may be taken in on an altruistic basis (such as a stray animal) and accepted by the owner regardless of these characteristics.
+           </p> 
+           <p>Any Aniamal at all can be used as pet . But the most common ones are dogs
+           
+             Other animals commonly kept include rabbits; ferrets; pigs; rodents such as gerbils, hamsters, chinchillas, rats, mice, and guinea pigs; birds such as parrots, passerines, and fowls; reptiles such as turtles, lizards, snakes, and iguanas; aquatic pets such as fish, freshwater snails, and saltwater snails; amphibians such as frogs and salamanders; and arthropod pets such as tarantulas and hermit crabs. Small pets may be 
+            grouped together as pocket pets, while the equine and bovine group include the largest companion animals.</p>
+            <h3>Reasons or importance of having pet</h3>
+            <p>Pets provide their owners (or "guardians") both physical and emotional benefits. Walking a dog can provide both the human and the dog with exercise, fresh air, and <a href="/wiki/Social_interaction"></a>social interaction</a>. Regular walking or playing with pets can decrease blood pressure, cholesterol levels,etc.. Pets can give companionship to people who are living alone or elderly adults who do not have adequate social interaction with other people. There is a medically approved class of <a href="/wiki/Therapy_animals" title="Therapy animals">therapy animals</a>, that are brought to visit confined humans, such as <a href="/wiki/Children%27s_hospital" title="Children's hospital">children in hospitals</a> or elders in <a href="/wiki/Nursing_homes"  title="Nursing homes">nursing homes</a>. Pet therapy utilizes trained animals and handlers to achieve specific physical, social, cognitive, or emotional goals with patients.
+            Also some pet such as dogs can serve as security to yourhome. </p>
+            <div><p>below are how to raise your pets.</p><hr></div>
+        </div></nav>
+
+        <div class="container">
+        
+        
+        
+        
+        </nav>
+        <footer>
+
+        </footer>
+
+    </body>
+      
+ </html>
